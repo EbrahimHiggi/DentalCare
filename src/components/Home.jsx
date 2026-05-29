@@ -5,7 +5,6 @@ const Home = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const heroRef = useRef(null);
 
-  // تعريف الصور مع إضافة fallback URLs
   const defaultImages = {
     clinic: {
       hero: "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",

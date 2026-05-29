@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# 🦷 Dental Clinic Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dental Clinic Web App is a modern and interactive dental website built with React.js.
+It is designed to provide patients with a smooth and engaging experience through smart tools and a clean medical UI.
 
-## Available Scripts
+The project goes beyond traditional clinic websites by introducing interactive features like a Dental Health Calculator and Before/After treatment visualization.
 
-In the project directory, you can run:
+## 📌 Features
 
-### `npm start`
+- Fully responsive design (works on desktop, tablet, and mobile).
+- Home, Services, About, and Contact pages with smooth navigation.
+- 🦷 Before & After comparison system for dental treatments.
+- 🧠 Dental Health Calculator for quick health insights.
+- Modern UI/UX focused on patient experience.
+- Fast performance and optimized React structure.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React.js – Frontend framework.
+JavaScript (ES6+) – Logic and interactivity.
+HTML5 – Structure and semantic layout.
+CSS3 / TailwindCSS – Styling and responsive design.
+Git & GitHub – Version control.
 
-### `npm test`
+## 📸 Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🏠 Home Page
 
-### `npm run build`
+<img width="962" height="602" alt="image" src="https://github.com/user-attachments/assets/bace77e0-36d9-4dd0-afc5-da1aea7d9f47" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🦷 Before & After Section
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="957" height="533" alt="image" src="https://github.com/user-attachments/assets/d3681ba9-810e-4495-a9c3-d3f0e0857778" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🧠 Dental Health Calculator
 
-### `npm run eject`
+<img width="951" height="546" alt="image" src="https://github.com/user-attachments/assets/58f3cec3-bfff-4286-ba16-50f8d62f289b" />
+<img width="959" height="459" alt="image" src="https://github.com/user-attachments/assets/1bfe93e2-c9c5-4672-87fe-837674a65d45" />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 📞 Contact Page
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="963" height="553" alt="image" src="https://github.com/user-attachments/assets/965ff7dd-ba41-4a30-8d75-b559e4bf359f" />
+<img width="953" height="540" alt="image" src="https://github.com/user-attachments/assets/3e35ef46-aef7-4f4b-b572-59ec19b0de97" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## ✨ Future Improvements
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Add online appointment booking system.
+- AI-based dental recommendation system.
+- Live chat with clinic support.
+- Patient dashboard system.
+- Multi-language support (English / Arabic).
 
-## Learn More
+## 🌐 Live Demo
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Check out the live version here:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 👨‍💻 Author
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Ebrahim Mohamed – Frontend Developer

@@ -2,7 +2,6 @@ import React from 'react';
 import { FaUserMd, FaSmile, FaAward, FaStar, FaCheckCircle, FaArrowRight } from 'react-icons/fa';
 
 const About = () => {
-  // تعريف الصور مباشرة في المكون
   const defaultImages = {
     clinic: {
       hero: "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
